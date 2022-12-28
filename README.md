@@ -21,7 +21,7 @@ NumPy stands for 'Numerical Python’. It is an open-source Python library used 
 Numpy actions which we can learn:
 </p></h3>
 <p align="center">
-    <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Operations-0-1.png" width="600">
+    <img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/07/Uses-of-NumPy-1.jpg" width="600">
 </p>
 
 <h1><center><strong><font size=90px>Learn Topics:</font></strong></center></h1>
