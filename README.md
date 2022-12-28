@@ -13,12 +13,12 @@ We are using Jupyter notebook and python 3 for this tutorial. For practice this 
 - python 3
 - Numpy Library
 
-<h1><center><strong><font size=90px>Introduction of Pandas:panda_face:</font></strong></center></h1>
+<h1><center><strong><font size=90px>Introduction of Numpy</font></strong></center></h1>
 
 NumPy stands for 'Numerical Python’. It is an open-source Python library used to perform various mathematical and scientific tasks.It is very important Library for  concentrating on AI 'Artificial intelligence'. Many of its functions are very useful for performing any mathematical or scientific calculation.It's used to support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. As it is known that mathematics is the foundation of machine learning, most of the mathematical tasks can be performed using NumPy.
 
 <h3> <p align="center">
-Pandas:panda_face: actions which we can learn:
+Numpy actions which we can learn:
 </p></h3>
 <p align="center">
     <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Operations-0-1.png" width="600">
