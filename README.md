@@ -1,5 +1,5 @@
 <h1> <p align="center">
-Image Preprocessing
+Numpy Tutorial
 </p></h1>
 
  <p align="center">
